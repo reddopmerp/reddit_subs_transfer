@@ -1,5 +1,13 @@
 # Multireddi Auto Sub
 
+- Visit any multireddit link/page
+
+- Right click & Copy link address of multireddit of your subscriptions from right side
+
+- Press CTRL+SHIFT+I to open Developer Tools window, then open the Console tab from there
+
+- Paste the code bellow on the console input and press enter. Voila!
+
 
 ```javascript
 const sub = () => {
